@@ -1,0 +1,7 @@
+Issue: Holding spacebar repeatedly starts and stops stream.
+Solution: Introduce while loop within if statements with an "ispressed" boolean.
+Resolved: No
+---------------------------------
+Issue:
+Solution:
+Resolved: 
