@@ -2,6 +2,6 @@ Issue: Holding spacebar repeatedly starts and stops stream.
 Solution: Introduce while loop within if statements with an "ispressed" boolean.
 Resolved: No
 ---------------------------------
-Issue:
-Solution:
-Resolved: 
+Issue: Stream continues after file is done playing. Possible issue with [while(data != '')].
+Solution: Change conditional to [while(data)]. Or something of that sort. Testing needed.
+Resolved: No
