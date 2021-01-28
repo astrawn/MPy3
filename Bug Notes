@@ -1,3 +1,8 @@
+BUG NOTES
+=================================
+Post bugs here to help get them resolved.
+Solutions not required.
+=================================
 Issue: Holding spacebar repeatedly starts and stops stream.
 Solution: Introduce while loop within if statements with an "ispressed" boolean.
 Resolved: No
