@@ -5,3 +5,30 @@ Resolved: No
 Issue: Stream continues after file is done playing. Possible issue with [while(data != '')].
 Solution: Change conditional to [while(data)]. Or something of that sort. Testing needed.
 Resolved: No
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
