@@ -6,8 +6,8 @@ import time
 from pydub import AudioSegment
 
 # files
-src = "C:/Users/Alex Strawn/Desktop/Misc/We_Are_The_In_Crowd/Weird_Kids_[Explicit]/B0754LBQBT_(disc_1)_03_-_Manners.mp3"
-dst = "C:/Users/Alex Strawn/Desktop/Manners.wav"
+src = "B0754LBQBT_(disc_1)_03_-_Manners.mp3"
+dst = "Manners.wav"
 
 # convert mp3 to wav
 sound = AudioSegment.from_mp3(src)
